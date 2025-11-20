@@ -20,3 +20,7 @@ html {
 	place-items: center;
 	perspective: 100rem;
 }
+
+.calendar {
+	width: 40%;
+}
